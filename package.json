@@ -1,0 +1,11 @@
+{
+  "name": "citest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "node-qunit-phantomjs index.html"
+  },
+  "author": "NathLg",
+  "license": "ISC"
+}
